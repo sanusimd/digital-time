@@ -1,0 +1,19 @@
+body{
+ background: rgb(44, 138, 156);
+
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center ; 
+}
+
+h1{
+    text-align: center;
+}
